@@ -33,8 +33,9 @@ How much RAM and hard disk space did you allocate to your VM? 4 GB
 What do you think would happen if you allocated too much RAM to your VM? I believe allocating too much RAM would causes glitches with the VM or make it sluggish. 
 
 Reflections #2
-What settings did you change and why? I attended to make setting changes. I followed the instructions to click on Devices and select Insert Guest Additions CD Image and nothing happened. I went back and check setup. It look good. I followed all the steps. I don't knwo why I can't get anything to happen when I do this. 
+What settings did you change and why? I went into the display settings menu of the VM and I enabled the 3D acceleration and I allocated the maximum amount of video memeory available.
 
-How did your VM perform before and after changing the settings? The VM was and is performing well for the before. I unfortunately don't have an after to compare it with since I was not able to make the changes, reboot the VM and text it. I went back multiple time to the instructions and I made sure I followed them exactly as shown. 
+How did your VM perform before and after changing the settings? The VM was more sluggish and choppy. When I went to play videos they wouldn't fully load at first and when the video did play it chopped the video in half. It would only show to top half of the video when playing. I would have to expand the video to full screen to see it in full.
+
 What other settings do you think could be important for optimizing a VM’s performance?
-Use fixed Virtual Hard Disk files to ensure efficient disk and network configurations. Prioritize allocating a good portion of the host's RAM to the VM.
+Use fixed Virtual Hard Disk files to ensure efficient disk and network configurations. Prioritize allocating a good portion of the host's RAM to the VM but not the full allocation. 
